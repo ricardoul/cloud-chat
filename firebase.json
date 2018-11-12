@@ -11,14 +11,20 @@
       "firebase.json",
       "database-rules.json",
       "storage.rules",
-      "functions"
+      "functions",
+      "**/node_modules/**",
+      "/node_modules"
     ],
-    "headers": [{
-      "source" : "**/*.@(js|html)",
-      "headers" : [ {
-        "key" : "Cache-Control",
-        "value" : "max-age=0"
-      } ]
-    }]
+    "headers": [
+      {
+        "source": "**/*.@(js|html)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=0"
+          }
+        ]
+      }
+    ]
   }
 }
