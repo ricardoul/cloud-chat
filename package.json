@@ -1,0 +1,19 @@
+{
+  "name": "friendlychat-web",
+  "version": "1.0.0",
+  "description": "This folder contains the final code of the [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).",
+  "main": "firebase-messaging-sw.js",
+  "scripts": {
+    "test": "echo \"No test for this app\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firebase/friendlychat-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firebase/friendlychat-web/issues"
+  },
+  "homepage": "https://github.com/firebase/friendlychat-web#readme"
+}
