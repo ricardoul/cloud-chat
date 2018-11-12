@@ -1,6 +1,6 @@
 {
   "projects": {
     "dev": "cloud-chat-dev",
-    "prod": "cloud-chat-374cd"
+    "master": "cloud-chat-374cd"
   }
 }
