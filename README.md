@@ -1,15 +1,7 @@
-# Firebase Codelab: FriendlyChat
+# Firebase Web Codelab - Final code
 
-This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
-code for Web and Cloud Functions. To get started open the codelab instructions:
+This folder contains the final code of the [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
- - [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
- - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
+You can use this app directly if you'd like to see the finished app but before you do follow the [Create a Firebase Project and Setup](https://codelabs.developers.google.com/codelabs/firebase-web/#3) step of the Codelab instructions
 
-
-## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## License
-See [LICENSE](LICENSE)
+If you'd like to follow the step by step codelab start with the [web-start](../web-start) directory.
